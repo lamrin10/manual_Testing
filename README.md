@@ -21,7 +21,7 @@ The `test-scenarios` directory includes detailed test scenarios that simulate re
 
 ## Bug Reports
 
-The `bug-reports` directory contains documented bug reports. Each bug report includes:
+ Each bug report includes:
 
 - Bug ID
 - Module Name
